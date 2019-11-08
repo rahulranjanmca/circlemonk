@@ -7,32 +7,32 @@
       1,
       2,
       6,
-      17,
+      15,
       24,
-      29,
-      32,
+      30,
+      31,
       35,
       0
     ],
     "1": [
       0,
       6,
-      17,
+      15,
       24,
-      29,
+      30,
       1
     ],
     "@theme/BlogTagsListPage": [
       0,
       2
     ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-tags-facebook-7b5.json": [
+    "@docusaurus-plugin-content-blog/blog-hola-089.json": [
       3
     ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-hola-5dc.json": [
+    "@theme/DocItem": [
       4
     ],
-    "@theme/DocItem": [
+    "@docusaurus-plugin-content-blog/blog-c06.json": [
       5
     ],
     "@theme/DocPage": [
@@ -44,57 +44,57 @@
       0,
       35
     ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-tags-tags-018.json": [
+    "@site/docs\\doc3.md": [
       7
     ],
-    "@site/docs\\doc3.md": [
+    "@docusaurus-plugin-content-blog/blog-hello-world-09a.json": [
       8
     ],
-    "@docusaurus-plugin-content-docs/texmonk-docs-doc-2-518.json": [
+    "@site/blog\\2019-05-28-hola.md?truncated=true": [
       9
     ],
-    "@site/blog\\2019-05-28-hola.md?truncated=true": [
+    "@docusaurus-plugin-content-docs/docs-doc-1-6ac.json": [
       10
     ],
-    "@docusaurus-plugin-content-docs/texmonk-docs-mdx-cd5.json": [
+    "@site/docs\\mdx.md": [
       11
     ],
-    "@site/docs\\mdx.md": [
+    "@docusaurus-plugin-content-docs/docs-mdx-04f.json": [
       12
     ],
-    "@docusaurus-plugin-content-docs/texmonk-docs-doc-1-c68.json": [
+    "@docusaurus-plugin-content-blog/blog-tags-hola-ea2.json": [
       13
     ],
-    "@docusaurus-plugin-content-docs/texmonk-docs-doc-3-799.json": [
+    "@docusaurus-plugin-content-blog/blog-tags-facebook-038.json": [
       14
-    ],
-    "@docusaurus-plugin-content-docs/texmonk-docs-route-008.json": [
-      15
-    ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-tags-hello-941.json": [
-      16
     ],
     "@theme/BlogTagsPostsPage": [
       0,
       1,
-      17
+      15
     ],
     "@site/docs\\doc1.md": [
-      18
-    ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-tags-hola-6b5.json": [
-      19
+      16
     ],
     "@site/blog\\2019-05-29-hello-world.md": [
-      20
+      17
     ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-hello-world-45f.json": [
-      21
+    "@docusaurus-plugin-content-blog/blog-welcome-001.json": [
+      18
+    ],
+    "@docusaurus-plugin-content-docs/docs-doc-3-72e.json": [
+      19
     ],
     "@site/docs\\doc2.md": [
-      22
+      20
     ],
     "@site/blog\\2019-05-30-welcome.md?truncated=true": [
+      21
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-docusaurus-0e0.json": [
+      22
+    ],
+    "@docusaurus-plugin-content-docs/docs-route-ff2.json": [
       23
     ],
     "@theme/BlogListPage": [
@@ -108,25 +108,25 @@
     "@site/blog\\2019-05-28-hola.md": [
       26
     ],
-    "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
+    "@docusaurus-plugin-content-blog/blog-tags-tags-4c2.json": [
       27
     ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-welcome-eea.json": [
+    "@docusaurus-plugin-content-docs/docs-doc-2-29a.json": [
       28
+    ],
+    "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
+      29
     ],
     "@theme/BlogPostPage": [
       0,
       1,
-      29
-    ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-tags-docusaurus-e50.json": [
       30
-    ],
-    "@docusaurus-plugin-content-blog/texmonk-blog-9af.json": [
-      31
     ],
     "@site/src\\pages\\index.js": [
       0,
+      31
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-hello-039.json": [
       32
     ],
     "main": [
@@ -144,14 +144,14 @@
         {
           "file": "0.6f6572d2.css",
           "hash": "f4d78b5617500d721b04",
-          "publicPath": "/texmonk/0.6f6572d2.css"
+          "publicPath": "/0.6f6572d2.css"
         }
       ],
       "js": [
         {
           "file": "0.4ad52983.js",
           "hash": "f4d78b5617500d721b04",
-          "publicPath": "/texmonk/0.4ad52983.js"
+          "publicPath": "/0.4ad52983.js"
         }
       ]
     },
@@ -160,14 +160,14 @@
         {
           "file": "1.2d0cefca.css",
           "hash": "bc3bcde989eda793b4f3",
-          "publicPath": "/texmonk/1.2d0cefca.css"
+          "publicPath": "/1.2d0cefca.css"
         }
       ],
       "js": [
         {
           "file": "1.fb7f69e5.js",
           "hash": "bc3bcde989eda793b4f3",
-          "publicPath": "/texmonk/1.fb7f69e5.js"
+          "publicPath": "/1.fb7f69e5.js"
         }
       ]
     },
@@ -176,41 +176,41 @@
         {
           "file": "01a85c17.1efdab84.js",
           "hash": "26474fc7c6a12600f207",
-          "publicPath": "/texmonk/01a85c17.1efdab84.js"
+          "publicPath": "/01a85c17.1efdab84.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "143c9f5e.21bf8293.js",
-          "hash": "b22a15efc62ef7cffb62",
-          "publicPath": "/texmonk/143c9f5e.21bf8293.js"
+          "file": "15c6fb24.5de94652.js",
+          "hash": "c6215e01b1d447996b5d",
+          "publicPath": "/15c6fb24.5de94652.js"
         }
       ]
     },
     "4": {
-      "js": [
-        {
-          "file": "16ac3c39.decd47df.js",
-          "hash": "e70df2207ee9ac0f5524",
-          "publicPath": "/texmonk/16ac3c39.decd47df.js"
-        }
-      ]
-    },
-    "5": {
       "css": [
         {
           "file": "17896441.f10d0adc.css",
-          "hash": "389345e316b94d726bb2",
-          "publicPath": "/texmonk/17896441.f10d0adc.css"
+          "hash": "9353d2c657686ca9a94a",
+          "publicPath": "/17896441.f10d0adc.css"
         }
       ],
       "js": [
         {
-          "file": "17896441.ec5ed4be.js",
-          "hash": "389345e316b94d726bb2",
-          "publicPath": "/texmonk/17896441.ec5ed4be.js"
+          "file": "17896441.54d72b53.js",
+          "hash": "9353d2c657686ca9a94a",
+          "publicPath": "/17896441.54d72b53.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "1a9639fa.6698dd26.js",
+          "hash": "359bce043fd90ebfcb23",
+          "publicPath": "/1a9639fa.6698dd26.js"
         }
       ]
     },
@@ -219,174 +219,174 @@
         {
           "file": "1be78505.a7dc664a.css",
           "hash": "bfe154960b8e97061edf",
-          "publicPath": "/texmonk/1be78505.a7dc664a.css"
+          "publicPath": "/1be78505.a7dc664a.css"
         }
       ],
       "js": [
         {
           "file": "1be78505.efc141fd.js",
           "hash": "bfe154960b8e97061edf",
-          "publicPath": "/texmonk/1be78505.efc141fd.js"
+          "publicPath": "/1be78505.efc141fd.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "1c802e42.6ca85edc.js",
-          "hash": "faed41acb34cc5ebd05f",
-          "publicPath": "/texmonk/1c802e42.6ca85edc.js"
+          "file": "225b4c69.44243f70.js",
+          "hash": "b7ba841ac50e531e0956",
+          "publicPath": "/225b4c69.44243f70.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "225b4c69.68db081a.js",
-          "hash": "d2d528d5541766587cd9",
-          "publicPath": "/texmonk/225b4c69.68db081a.js"
+          "file": "253ba960.48dc94ba.js",
+          "hash": "aeadca3381f67bf533c6",
+          "publicPath": "/253ba960.48dc94ba.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "26c3334a.881ce03c.js",
-          "hash": "f8471e6aaf32130c99bd",
-          "publicPath": "/texmonk/26c3334a.881ce03c.js"
+          "file": "2738c48a.ee4d7094.js",
+          "hash": "647def94b80b96913458",
+          "publicPath": "/2738c48a.ee4d7094.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "2738c48a.3e5c512c.js",
-          "hash": "2d9fdecd93fca2bf6659",
-          "publicPath": "/texmonk/2738c48a.3e5c512c.js"
+          "file": "456097a5.6eb5216b.js",
+          "hash": "3e7395631c316a5fbe46",
+          "publicPath": "/456097a5.6eb5216b.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "440156a2.4c90d197.js",
-          "hash": "0af5cced4eea60bbd2d1",
-          "publicPath": "/texmonk/440156a2.4c90d197.js"
+          "file": "45acc928.3952f2f2.js",
+          "hash": "f1f8a7896fa081c57268",
+          "publicPath": "/45acc928.3952f2f2.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "45acc928.170f61f6.js",
-          "hash": "0414a7f679bf453eab4a",
-          "publicPath": "/texmonk/45acc928.170f61f6.js"
+          "file": "5148059b.77dab491.js",
+          "hash": "dbb8a13f42f5766c9c6d",
+          "publicPath": "/5148059b.77dab491.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "4b59d69c.cb106a57.js",
-          "hash": "feb874e7f264080a8895",
-          "publicPath": "/texmonk/4b59d69c.cb106a57.js"
+          "file": "62bccefa.dadd3f9a.js",
+          "hash": "3059a1a72f9ed558d29a",
+          "publicPath": "/62bccefa.dadd3f9a.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "51301384.ece4fa57.js",
-          "hash": "1821c8d58e9bf2d263b8",
-          "publicPath": "/texmonk/51301384.ece4fa57.js"
+          "file": "66c6a531.728d5785.js",
+          "hash": "c188bf3b8f9b08dcdbab",
+          "publicPath": "/66c6a531.728d5785.js"
         }
       ]
     },
     "15": {
+      "css": [
+        {
+          "file": "6875c492.42d18faa.css",
+          "hash": "d48c04595d1cfad01729",
+          "publicPath": "/6875c492.42d18faa.css"
+        }
+      ],
       "js": [
         {
-          "file": "5c91d228.47087051.js",
-          "hash": "90f9c0894be1973b6e94",
-          "publicPath": "/texmonk/5c91d228.47087051.js"
+          "file": "6875c492.30d7f95d.js",
+          "hash": "d48c04595d1cfad01729",
+          "publicPath": "/6875c492.30d7f95d.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "61c39816.3fd1956b.js",
-          "hash": "a81e7c7c2e17f31d0fd7",
-          "publicPath": "/texmonk/61c39816.3fd1956b.js"
+          "file": "7366bc9d.3e2ba726.js",
+          "hash": "f743374a45ae8f66af12",
+          "publicPath": "/7366bc9d.3e2ba726.js"
         }
       ]
     },
     "17": {
-      "css": [
-        {
-          "file": "6875c492.42d18faa.css",
-          "hash": "2cd2482fd7eafa54dded",
-          "publicPath": "/texmonk/6875c492.42d18faa.css"
-        }
-      ],
       "js": [
         {
-          "file": "6875c492.3a74dbe3.js",
-          "hash": "2cd2482fd7eafa54dded",
-          "publicPath": "/texmonk/6875c492.3a74dbe3.js"
+          "file": "843d79fe.f0db960c.js",
+          "hash": "80b42d8157497d815bca",
+          "publicPath": "/843d79fe.f0db960c.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "7366bc9d.5583d435.js",
-          "hash": "57ea84191aeabcf08277",
-          "publicPath": "/texmonk/7366bc9d.5583d435.js"
+          "file": "85bda95d.7fe13a35.js",
+          "hash": "ba0583339f309522fd9f",
+          "publicPath": "/85bda95d.7fe13a35.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "778c6b5e.689477eb.js",
-          "hash": "7ecc33eb73c2e95d705e",
-          "publicPath": "/texmonk/778c6b5e.689477eb.js"
+          "file": "95819226.235a256b.js",
+          "hash": "79cc2de21b06d980d8ab",
+          "publicPath": "/95819226.235a256b.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "843d79fe.95ba4671.js",
-          "hash": "df84caa0e27bd483a688",
-          "publicPath": "/texmonk/843d79fe.95ba4671.js"
+          "file": "991b72a1.2b17a182.js",
+          "hash": "93173c7f52b61d50e322",
+          "publicPath": "/991b72a1.2b17a182.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "985ecfce.1133fb1c.js",
-          "hash": "154752cd281343291b2b",
-          "publicPath": "/texmonk/985ecfce.1133fb1c.js"
+          "file": "99caf125.b5a3e15d.js",
+          "hash": "0da9993d63b6087e5414",
+          "publicPath": "/99caf125.b5a3e15d.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "991b72a1.7bb498e1.js",
-          "hash": "1254ab783c34005daba2",
-          "publicPath": "/texmonk/991b72a1.7bb498e1.js"
+          "file": "9b4e020f.83a7e65d.js",
+          "hash": "a893ea25c959da342244",
+          "publicPath": "/9b4e020f.83a7e65d.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "99caf125.58a3714d.js",
-          "hash": "c59ec75d6335c69913d8",
-          "publicPath": "/texmonk/99caf125.58a3714d.js"
+          "file": "9c9e4252.6ca3a19a.js",
+          "hash": "96fae34e3f9f59a066fa",
+          "publicPath": "/9c9e4252.6ca3a19a.js"
         }
       ]
     },
@@ -395,14 +395,14 @@
         {
           "file": "a6aa9e1f.42d18faa.css",
           "hash": "66f9d3eed209762b057f",
-          "publicPath": "/texmonk/a6aa9e1f.42d18faa.css"
+          "publicPath": "/a6aa9e1f.42d18faa.css"
         }
       ],
       "js": [
         {
           "file": "a6aa9e1f.7005bae2.js",
           "hash": "66f9d3eed209762b057f",
-          "publicPath": "/texmonk/a6aa9e1f.7005bae2.js"
+          "publicPath": "/a6aa9e1f.7005bae2.js"
         }
       ]
     },
@@ -411,7 +411,7 @@
         {
           "file": "a9ae89f1.b3165e9a.js",
           "hash": "bea814db2aea125fb244",
-          "publicPath": "/texmonk/a9ae89f1.b3165e9a.js"
+          "publicPath": "/a9ae89f1.b3165e9a.js"
         }
       ]
     },
@@ -420,75 +420,75 @@
         {
           "file": "aeda19be.906de771.js",
           "hash": "bfd3a74af5d7f6f878e8",
-          "publicPath": "/texmonk/aeda19be.906de771.js"
+          "publicPath": "/aeda19be.906de771.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "c0a4ca73.08bfdb26.js",
-          "hash": "e4ffc756acad9f66a82d",
-          "publicPath": "/texmonk/c0a4ca73.08bfdb26.js"
+          "file": "ba6c5c63.86a8d7e5.js",
+          "hash": "575dd69716f8f24f97b6",
+          "publicPath": "/ba6c5c63.86a8d7e5.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "c7a9f523.44d6a554.js",
-          "hash": "01ca0da9759faf8ddc9c",
-          "publicPath": "/texmonk/c7a9f523.44d6a554.js"
+          "file": "bacc4a55.bb17ea5f.js",
+          "hash": "b0966647ea6204c36249",
+          "publicPath": "/bacc4a55.bb17ea5f.js"
         }
       ]
     },
     "29": {
-      "css": [
-        {
-          "file": "ccc49370.42d18faa.css",
-          "hash": "2d526357a643953831f2",
-          "publicPath": "/texmonk/ccc49370.42d18faa.css"
-        }
-      ],
       "js": [
         {
-          "file": "ccc49370.fc4f1428.js",
-          "hash": "2d526357a643953831f2",
-          "publicPath": "/texmonk/ccc49370.fc4f1428.js"
+          "file": "c0a4ca73.d83c561b.js",
+          "hash": "da7e2c93c2077dc053dc",
+          "publicPath": "/c0a4ca73.d83c561b.js"
         }
       ]
     },
     "30": {
-      "js": [
-        {
-          "file": "e73cbd40.31ba38f5.js",
-          "hash": "db4f78d3b78cc81442c5",
-          "publicPath": "/texmonk/e73cbd40.31ba38f5.js"
-        }
-      ]
-    },
-    "31": {
-      "js": [
-        {
-          "file": "eb8689f7.3d9f192a.js",
-          "hash": "aa58b2cd2c3f671182d8",
-          "publicPath": "/texmonk/eb8689f7.3d9f192a.js"
-        }
-      ]
-    },
-    "32": {
       "css": [
         {
-          "file": "ece76bd1.9f99729b.css",
-          "hash": "0707a750bf50173f83b7",
-          "publicPath": "/texmonk/ece76bd1.9f99729b.css"
+          "file": "ccc49370.42d18faa.css",
+          "hash": "c9f42b4d18c9b71a0cae",
+          "publicPath": "/ccc49370.42d18faa.css"
         }
       ],
       "js": [
         {
-          "file": "ece76bd1.cadc11a9.js",
-          "hash": "0707a750bf50173f83b7",
-          "publicPath": "/texmonk/ece76bd1.cadc11a9.js"
+          "file": "ccc49370.445e10e2.js",
+          "hash": "c9f42b4d18c9b71a0cae",
+          "publicPath": "/ccc49370.445e10e2.js"
+        }
+      ]
+    },
+    "31": {
+      "css": [
+        {
+          "file": "ece76bd1.9f99729b.css",
+          "hash": "f7cce456e86e5b8cc729",
+          "publicPath": "/ece76bd1.9f99729b.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "ece76bd1.6be75f4a.js",
+          "hash": "f7cce456e86e5b8cc729",
+          "publicPath": "/ece76bd1.6be75f4a.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "f1a8d6b5.66b31b94.js",
+          "hash": "912ded5e1f00e19294e7",
+          "publicPath": "/f1a8d6b5.66b31b94.js"
         }
       ]
     },
@@ -496,24 +496,24 @@
       "css": [
         {
           "file": "main.fbdb46d8.css",
-          "hash": "8c48470197b01c273a4c",
-          "publicPath": "/texmonk/main.fbdb46d8.css"
+          "hash": "4fd003d431f0a36f33ff",
+          "publicPath": "/main.fbdb46d8.css"
         }
       ],
       "js": [
         {
-          "file": "main.22577093.js",
-          "hash": "8c48470197b01c273a4c",
-          "publicPath": "/texmonk/main.22577093.js"
+          "file": "main.8fd2d0d9.js",
+          "hash": "4fd003d431f0a36f33ff",
+          "publicPath": "/main.8fd2d0d9.js"
         }
       ]
     },
     "34": {
       "js": [
         {
-          "file": "runtime~main.657d2ea4.js",
-          "hash": "727fab68c1ae76cdb465",
-          "publicPath": "/texmonk/runtime~main.657d2ea4.js"
+          "file": "runtime~main.9aca7b00.js",
+          "hash": "03cd4c38fdca086c1e85",
+          "publicPath": "/runtime~main.9aca7b00.js"
         }
       ]
     },
@@ -522,7 +522,7 @@
         {
           "file": "35.bd17fcde.js",
           "hash": "ac5c2bb8e31b50078808",
-          "publicPath": "/texmonk/35.bd17fcde.js"
+          "publicPath": "/35.bd17fcde.js"
         }
       ]
     }
