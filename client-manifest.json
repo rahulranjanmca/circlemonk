@@ -1,0 +1,530 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "0": [
+      1,
+      2,
+      6,
+      15,
+      24,
+      30,
+      31,
+      35,
+      0
+    ],
+    "1": [
+      0,
+      6,
+      15,
+      24,
+      30,
+      1
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      2
+    ],
+    "@docusaurus-plugin-content-blog/blog-hola-089.json": [
+      3
+    ],
+    "@theme/DocItem": [
+      4
+    ],
+    "@docusaurus-plugin-content-blog/blog-c06.json": [
+      5
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      6
+    ],
+    "@theme/NotFound": [
+      0,
+      35
+    ],
+    "@site/docs\\doc3.md": [
+      7
+    ],
+    "@docusaurus-plugin-content-blog/blog-hello-world-09a.json": [
+      8
+    ],
+    "@site/blog\\2019-05-28-hola.md?truncated=true": [
+      9
+    ],
+    "@docusaurus-plugin-content-docs/docs-doc-1-6ac.json": [
+      10
+    ],
+    "@site/docs\\mdx.md": [
+      11
+    ],
+    "@docusaurus-plugin-content-docs/docs-mdx-04f.json": [
+      12
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-hola-ea2.json": [
+      13
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-facebook-038.json": [
+      14
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      15
+    ],
+    "@site/docs\\doc1.md": [
+      16
+    ],
+    "@site/blog\\2019-05-29-hello-world.md": [
+      17
+    ],
+    "@docusaurus-plugin-content-blog/blog-welcome-001.json": [
+      18
+    ],
+    "@docusaurus-plugin-content-docs/docs-doc-3-72e.json": [
+      19
+    ],
+    "@site/docs\\doc2.md": [
+      20
+    ],
+    "@site/blog\\2019-05-30-welcome.md?truncated=true": [
+      21
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-docusaurus-0e0.json": [
+      22
+    ],
+    "@docusaurus-plugin-content-docs/docs-route-ff2.json": [
+      23
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      24
+    ],
+    "@site/blog\\2019-05-30-welcome.md": [
+      25
+    ],
+    "@site/blog\\2019-05-28-hola.md": [
+      26
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-tags-4c2.json": [
+      27
+    ],
+    "@docusaurus-plugin-content-docs/docs-doc-2-29a.json": [
+      28
+    ],
+    "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
+      29
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      30
+    ],
+    "@site/src\\pages\\index.js": [
+      0,
+      31
+    ],
+    "@docusaurus-plugin-content-blog/blog-tags-hello-039.json": [
+      32
+    ],
+    "main": [
+      34,
+      33
+    ],
+    "runtime~main": [
+      33,
+      34
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "0.6f6572d2.css",
+          "hash": "f4d78b5617500d721b04",
+          "publicPath": "/0.6f6572d2.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "0.4ad52983.js",
+          "hash": "f4d78b5617500d721b04",
+          "publicPath": "/0.4ad52983.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "1.2d0cefca.css",
+          "hash": "bc3bcde989eda793b4f3",
+          "publicPath": "/1.2d0cefca.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "1.fb7f69e5.js",
+          "hash": "bc3bcde989eda793b4f3",
+          "publicPath": "/1.fb7f69e5.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "01a85c17.1efdab84.js",
+          "hash": "26474fc7c6a12600f207",
+          "publicPath": "/01a85c17.1efdab84.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "15c6fb24.5de94652.js",
+          "hash": "c6215e01b1d447996b5d",
+          "publicPath": "/15c6fb24.5de94652.js"
+        }
+      ]
+    },
+    "4": {
+      "css": [
+        {
+          "file": "17896441.f10d0adc.css",
+          "hash": "9353d2c657686ca9a94a",
+          "publicPath": "/17896441.f10d0adc.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "17896441.54d72b53.js",
+          "hash": "9353d2c657686ca9a94a",
+          "publicPath": "/17896441.54d72b53.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "1a9639fa.6698dd26.js",
+          "hash": "359bce043fd90ebfcb23",
+          "publicPath": "/1a9639fa.6698dd26.js"
+        }
+      ]
+    },
+    "6": {
+      "css": [
+        {
+          "file": "1be78505.a7dc664a.css",
+          "hash": "bfe154960b8e97061edf",
+          "publicPath": "/1be78505.a7dc664a.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "1be78505.efc141fd.js",
+          "hash": "bfe154960b8e97061edf",
+          "publicPath": "/1be78505.efc141fd.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "225b4c69.ecae73a1.js",
+          "hash": "d8d4d6588a222ff6d693",
+          "publicPath": "/225b4c69.ecae73a1.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "253ba960.48dc94ba.js",
+          "hash": "aeadca3381f67bf533c6",
+          "publicPath": "/253ba960.48dc94ba.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "2738c48a.ee4d7094.js",
+          "hash": "647def94b80b96913458",
+          "publicPath": "/2738c48a.ee4d7094.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "456097a5.c5120b42.js",
+          "hash": "bcb2a918e364bee95dac",
+          "publicPath": "/456097a5.c5120b42.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "45acc928.3952f2f2.js",
+          "hash": "f1f8a7896fa081c57268",
+          "publicPath": "/45acc928.3952f2f2.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "5148059b.77dab491.js",
+          "hash": "dbb8a13f42f5766c9c6d",
+          "publicPath": "/5148059b.77dab491.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "62bccefa.dadd3f9a.js",
+          "hash": "3059a1a72f9ed558d29a",
+          "publicPath": "/62bccefa.dadd3f9a.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "66c6a531.728d5785.js",
+          "hash": "c188bf3b8f9b08dcdbab",
+          "publicPath": "/66c6a531.728d5785.js"
+        }
+      ]
+    },
+    "15": {
+      "css": [
+        {
+          "file": "6875c492.42d18faa.css",
+          "hash": "d48c04595d1cfad01729",
+          "publicPath": "/6875c492.42d18faa.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "6875c492.30d7f95d.js",
+          "hash": "d48c04595d1cfad01729",
+          "publicPath": "/6875c492.30d7f95d.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "7366bc9d.011b4eed.js",
+          "hash": "65d8d041e3091adb67f2",
+          "publicPath": "/7366bc9d.011b4eed.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "843d79fe.f0db960c.js",
+          "hash": "80b42d8157497d815bca",
+          "publicPath": "/843d79fe.f0db960c.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "85bda95d.7fe13a35.js",
+          "hash": "ba0583339f309522fd9f",
+          "publicPath": "/85bda95d.7fe13a35.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "95819226.235a256b.js",
+          "hash": "79cc2de21b06d980d8ab",
+          "publicPath": "/95819226.235a256b.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "991b72a1.bc825f35.js",
+          "hash": "1641afb1e717e25be2cc",
+          "publicPath": "/991b72a1.bc825f35.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "99caf125.b5a3e15d.js",
+          "hash": "0da9993d63b6087e5414",
+          "publicPath": "/99caf125.b5a3e15d.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "9b4e020f.83a7e65d.js",
+          "hash": "a893ea25c959da342244",
+          "publicPath": "/9b4e020f.83a7e65d.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "9c9e4252.c528ad2b.js",
+          "hash": "e09f74d35a02457fcf64",
+          "publicPath": "/9c9e4252.c528ad2b.js"
+        }
+      ]
+    },
+    "24": {
+      "css": [
+        {
+          "file": "a6aa9e1f.42d18faa.css",
+          "hash": "66f9d3eed209762b057f",
+          "publicPath": "/a6aa9e1f.42d18faa.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "a6aa9e1f.7005bae2.js",
+          "hash": "66f9d3eed209762b057f",
+          "publicPath": "/a6aa9e1f.7005bae2.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "a9ae89f1.b3165e9a.js",
+          "hash": "bea814db2aea125fb244",
+          "publicPath": "/a9ae89f1.b3165e9a.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "aeda19be.906de771.js",
+          "hash": "bfd3a74af5d7f6f878e8",
+          "publicPath": "/aeda19be.906de771.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "ba6c5c63.86a8d7e5.js",
+          "hash": "575dd69716f8f24f97b6",
+          "publicPath": "/ba6c5c63.86a8d7e5.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "bacc4a55.d6617a78.js",
+          "hash": "9655f09fdde572a1059b",
+          "publicPath": "/bacc4a55.d6617a78.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "c0a4ca73.d83c561b.js",
+          "hash": "da7e2c93c2077dc053dc",
+          "publicPath": "/c0a4ca73.d83c561b.js"
+        }
+      ]
+    },
+    "30": {
+      "css": [
+        {
+          "file": "ccc49370.42d18faa.css",
+          "hash": "c9f42b4d18c9b71a0cae",
+          "publicPath": "/ccc49370.42d18faa.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "ccc49370.445e10e2.js",
+          "hash": "c9f42b4d18c9b71a0cae",
+          "publicPath": "/ccc49370.445e10e2.js"
+        }
+      ]
+    },
+    "31": {
+      "css": [
+        {
+          "file": "ece76bd1.9f99729b.css",
+          "hash": "f7cce456e86e5b8cc729",
+          "publicPath": "/ece76bd1.9f99729b.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "ece76bd1.6be75f4a.js",
+          "hash": "f7cce456e86e5b8cc729",
+          "publicPath": "/ece76bd1.6be75f4a.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "f1a8d6b5.66b31b94.js",
+          "hash": "912ded5e1f00e19294e7",
+          "publicPath": "/f1a8d6b5.66b31b94.js"
+        }
+      ]
+    },
+    "33": {
+      "css": [
+        {
+          "file": "main.fbdb46d8.css",
+          "hash": "82da9f656298b3abcff9",
+          "publicPath": "/main.fbdb46d8.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "main.43331858.js",
+          "hash": "82da9f656298b3abcff9",
+          "publicPath": "/main.43331858.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "runtime~main.000d481b.js",
+          "hash": "a754d9226c41ccd49e4f",
+          "publicPath": "/runtime~main.000d481b.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "35.bd17fcde.js",
+          "hash": "ac5c2bb8e31b50078808",
+          "publicPath": "/35.bd17fcde.js"
+        }
+      ]
+    }
+  }
+}
