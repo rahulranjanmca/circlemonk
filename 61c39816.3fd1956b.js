@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{156:function(o){o.exports=JSON.parse('{"allTagsPath":"/texmonk/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/texmonk/blog/tags/hello"}')}}]);
