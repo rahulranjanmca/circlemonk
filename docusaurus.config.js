@@ -6,22 +6,25 @@
  */
 
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'TexMonk',
+  tagline: 'Knowledge By Community & Knowledge For Community',
+  url: 'https://rahulranjanmca.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'rahulranjanmca', // Usually your GitHub org/user name.
+  projectName: 'texmonk', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'TexMonk',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Tex Monk',
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
+        {to: 'docs/doc1', label: 'Doc', position: 'left'},
+        {to: 'docs/doc2', label: 'Core Java', position: 'left'},
+        {to: 'node-js/doc1', label: 'Node JS', position: 'left'},
+        {to: 'java-ee/doc1', label: 'Java EE', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -30,6 +33,7 @@ module.exports = {
         },
       ],
     },
+    sidebarCollapsible: false,
     footer: {
       style: 'dark',
       links: [
@@ -65,7 +69,7 @@ module.exports = {
         alt: 'Facebook Open Source Logo',
         src: 'https://docusaurus.io/img/oss_logo.png',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} TexMonk, Inc..`,
     },
   },
   presets: [
