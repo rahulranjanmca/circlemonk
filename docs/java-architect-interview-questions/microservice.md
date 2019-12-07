@@ -10,6 +10,20 @@ Microservices is an architectural style which structures and application as a co
 
 If you have a business focus and you want to solve a use case or a problem efficiently without the boundaries of technology, want to scale an independent service infinitely, highly available stateless services which are easy to maintainable and managed as well as independently testable then we would go ahead and implement Microservice architecture.
 
+### What do you mean by Cloud Native Application?
+App should have alteast below things
+
+- Containerized
+- DevOps
+- Microservice
+- CI/CD
+
+### How will you pass the unique id for logging?
+
+1. One can be Writing a filter for corelation id generation
+2. Write Your own wrapper around RestTemplate so that it posts with correlation id every time.
+
+
 ### What is Service Discovery?
 
 In a cloud environment where docker images are dynamically deployed on any machine or IP + Port combination, it becomes difficult for dependent services to update at runtime. Service discovery is created due to that purpose only.

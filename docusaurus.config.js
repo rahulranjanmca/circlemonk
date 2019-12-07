@@ -6,18 +6,18 @@
  */
 
 module.exports = {
-  title: 'TexMonk',
+  title: 'CircleMonk',
   tagline: 'Knowledge By Community & Knowledge For Community',
   url: 'https://rahulranjanmca.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'rahulranjanmca', // Usually your GitHub org/user name.
-  projectName: 'texmonk', // Usually your repo name.
+  projectName: 'circlemonk', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'TexMonk',
+      title: 'CircleMonk',
       logo: {
-        alt: 'Tex Monk',
+        alt: 'Circle Monk',
         src: 'img/logo.svg',
       },
       links: [
@@ -27,7 +27,7 @@ module.exports = {
         {to: 'java-ee/doc1', label: 'Java EE', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/rahulranjanmca/circlemonk',
           label: 'GitHub',
           position: 'right',
         },

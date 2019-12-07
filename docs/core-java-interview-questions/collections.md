@@ -17,7 +17,7 @@ Array and Collection are somewhat similar regarding storing the references of ob
 
 - Arrays are always of fixed size, i.e., a user can not increase or decrease the length of the array according to their requirement or at runtime, but In Collection, size can be changed dynamically as per need.
 - Arrays can only store homogeneous or similar type objects, but in Collection, heterogeneous objects can be stored.
-- Arrays cannot provide the ?ready-made? methods for user requirements as sorting, searching, etc. but Collection includes readymade methods to use.
+- Arrays cannot provide the `ready-made` methods for user requirements as sorting, searching, etc. but Collection includes readymade methods to use.
 
 ---
 
@@ -29,3 +29,7 @@ Array and Collection are somewhat similar regarding storing the references of ob
 |ArrayList is not a legacy class.|Vector is a legacy class.|
 |ArrayList increases its size by 50% of the array size.|Vector increases its size by doubling the array size.|
 |ArrayList is not `thread-safe` as it is not synchronized.|Vector is `thread-safe` as it's every method is synchronized.|
+
+### What is the difference between Fail Fast and Fail Safe Collection.
+
+Fail-fast and Fail-safe iterations in Java Collections. ... Fail-safe iterators means they will not throw any exception even if the collection is modified while iterating over it. Whereas Fail-fast iterators throw an exception(ConcurrentModificationException) if the collection is modified while iterating over it.

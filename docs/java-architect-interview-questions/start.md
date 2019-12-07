@@ -19,6 +19,19 @@ Here are the list of Design Patterns.
     - Decomposition
         - Decompose by Business Capability, Decompose by Subdomain
     - Testing
-        - Service Component Test, Consumer Driven Contract Test, Consumer Side Contract Test
+        - Service Component Test, Consumer Driven Contract Test
     -    
   
+  
+### What are the parameters you should consider when choosing for a technology for you new job.
+
+- COST
+- EASE OF LEARNING
+- RESOURCE AVAILABILITY
+- PERFORMANCE
+- SECURITY
+- MIGRATION TO AND FROM COMPLEXITY
+- MEATURENESS
+- LONG TERM VISION
+- COMMUNITY
+

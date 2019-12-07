@@ -82,9 +82,12 @@ module.exports = {
     Basic: ['java-architect-interview-questions/start',
       'java-architect-interview-questions/microservice',
       'java-architect-interview-questions/advanced',
-      'java-architect-interview-questions/microservice-discovery-spring-cloud',
       'java-architect-interview-questions/cicd',
-      'java-architect-interview-questions/profiling-visualvm']
+      'java-architect-interview-questions/profiling-visualvm'],
+    Cloud: [
+      'java-architect-interview-questions/cloud-netflix',
+      'java-architect-interview-questions/cloud-config',
+    ]
   },
   "docker-interview-questions": {
     Docker: ['docker-interview-questions/start',

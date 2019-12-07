@@ -152,7 +152,7 @@ function Topic({title, link}) {
     const docLink = useBaseUrl(link);
     return (
         <Grid item xs={12} md={6} lg={4}>
-            <Card>
+            <Card square={true} elevation={0} style={{backgroundColor: "dimgrey"}}>
                 {docLink && (
                     <div className="text--center">
                         <Link className={styles.featureImage} to={docLink} alt={title}>{title}</Link>
@@ -201,7 +201,7 @@ function Home() {
                 )}
                 <div className='margin-vert--lg'>
                     <div className="container">
-                        <Card className="text--center" header={'Check the Topics'}>
+                        <Card square={true} elevation={0} className="text--center" header={'Check the Topics'}>
                             <CardHeader style={{backgroundColor: '#cdcdcd'}} title={'Check the Topics'} subheader={'All the best'}>Check the Topics</CardHeader>'
                             <Grid spacing={1} container>
                                 {topics && topics.length && (
