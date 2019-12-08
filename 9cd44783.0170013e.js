@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[112],{247:function(i){i.exports=JSON.parse('{"id":"ionic-interview-questions/start","title":"Ionic Interview Questions","description":"### What is Ionic?","source":"@site/docs\\\\ionic-interview-questions\\\\start.md","permalink":"/docs/ionic-interview-questions/start","sidebar":"ionic-interview-questions"}')}}]);
