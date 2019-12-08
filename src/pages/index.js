@@ -104,18 +104,17 @@ const topics = [
 ];
 const features = [
     {
-        title: <>Learn & Earn</>,
-        imageUrl: 'img/undraw_docusaurus_mountain.svg',
+        title: <>Learn & Grow</>,
+        imageUrl: 'img/grow.jpg',
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and
-                used to get your website up and running quickly.
+                Learn and grow. This is totally free and we are adding continues resources. Even you can contribute if you thing something is missing.
             </>
         ),
     },
     {
         title: <>Reference Point for Interviewer as well</>,
-        imageUrl: 'img/undraw_docusaurus_tree.svg',
+        imageUrl: 'img/book.jpg',
         description: (
             <>
                 This is not only for people to learn and prepare interview, event interviewer can also look at the questions to get prepared. So Get Set And Go and Hire the best.
@@ -124,10 +123,10 @@ const features = [
     },
     {
         title: <>Powered by Community</>,
-        imageUrl: 'img/undraw_docusaurus_react.svg',
+        imageUrl: 'img/community.jpg',
         description: (
             <>
-                This is powered by community. Do you want some questions to be included, just raise a pull request. Or even just raise a but with your question and answer.
+                This is powered by community. Do you want some questions to be included, just raise a pull request. Or even just raise a bug with your question and answer.
             </>
         ),
     },

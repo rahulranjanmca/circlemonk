@@ -6,6 +6,9 @@
  */
 
 module.exports = {
+  "contribute": {
+    Basics: ["contribution", "style-guide", "link-example", "mdx-example"]
+  },
   "core-java-interview-questions": {
     Basics: ["core-java-interview-questions/start",
       "core-java-interview-questions/threading",

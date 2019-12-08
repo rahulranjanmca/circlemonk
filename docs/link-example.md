@@ -1,6 +1,6 @@
 ---
-id: doc2
-title: Document Number 2
+id: link-example
+title: Link Example
 ---
 
 This is a link to [another document.](doc3.md)

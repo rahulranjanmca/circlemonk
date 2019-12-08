@@ -21,11 +21,7 @@ module.exports = {
         src: 'img/logo.png',
       },
       links: [
-        {to: 'docs/doc1', label: 'Doc', position: 'left'},
-        {to: 'docs/doc2', label: 'Core Java', position: 'left'},
-        {to: 'node-js/doc1', label: 'Node JS', position: 'left'},
-        {to: 'java-ee/doc1', label: 'Java EE', position: 'left'},
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'docs/contribution', label: 'Contribute', position: 'left'},
         {
           href: 'https://github.com/rahulranjanmca/circlemonk',
           label: 'GitHub',
@@ -38,20 +34,36 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Important Links',
           items: [
             {
-              label: 'Docs',
-              to: 'docs/doc1',
+              label: 'Contribution',
+              to: 'docs/contribution',
+            },
+            {
+              label: 'Github',
+              to: 'https://github.com/rahulranjanmca/circlemonk',
+            },
+            {
+              label: 'Contributors',
+              to: 'docs/contributors',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'About',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'About',
+              to: 'docs/about',
+            },
+            {
+              label: 'Earn With Us',
+              to: 'docs/earn-with-us',
+            },
+            {
+              label: 'Contact',
+              to: 'docs/contact',
             },
           ],
         },
@@ -59,13 +71,24 @@ module.exports = {
           title: 'Social',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Facebook',
+              to: 'https://facebook.com/circlemonk',
+            },
+            {
+              label: 'Twitter',
+              to: 'https://twitter.com/circlemonk',
+            },
+            {
+              label: 'Instagram',
+              to: 'https://instagram.com/circlemonk',
+            },
+            {
+              label: 'Youtube',
+              to: 'https://youtube.com/circlemonk',
             },
           ],
         },
       ],
-
       copyright: `Copyright © ${new Date().getFullYear()} CircleMonk`,
     },
   },

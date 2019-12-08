@@ -1,5 +1,5 @@
 ---
-id: mdx
+id: mdx-example
 title: Powered by MDX
 ---
 
