@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{312:function(s){s.exports=JSON.parse('{"id":"redis-interview-questions/start","title":"Redis Interview Questions","sidebar_label":"Basics","description":"### What is Redis?","source":"@site/docs\\\\redis-interview-questions\\\\start.md","permalink":"/docs/redis-interview-questions/start"}')}}]);

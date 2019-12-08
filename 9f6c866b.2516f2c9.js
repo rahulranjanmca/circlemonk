@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[114],{162:function(o){o.exports=JSON.parse('{"id":"about","title":"About","description":"I am a Software Engineer running it with my team.","source":"@site/docs\\\\about.md","permalink":"/docs/about"}')}}]);

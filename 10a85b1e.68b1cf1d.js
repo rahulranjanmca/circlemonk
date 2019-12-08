@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{324:function(e){e.exports=JSON.parse('{"id":"uml-interview-questions/start","title":"Uml Interview Questions","description":"### What is UML?","source":"@site/docs\\\\uml-interview-questions\\\\start.md","permalink":"/docs/uml-interview-questions/start","sidebar":"uml-interview-questions"}')}}]);
