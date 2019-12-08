@@ -15,10 +15,10 @@ module.exports = {
   projectName: 'circlemonk', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'CircleMonk',
+      title: '',
       logo: {
         alt: 'Circle Monk',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       links: [
         {to: 'docs/doc1', label: 'Doc', position: 'left'},
@@ -65,11 +65,8 @@ module.exports = {
           ],
         },
       ],
-      logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'https://docusaurus.io/img/oss_logo.png',
-      },
-      copyright: `Copyright © ${new Date().getFullYear()} TexMonk, Inc..`,
+
+      copyright: `Copyright © ${new Date().getFullYear()} CircleMonk`,
     },
   },
   presets: [
