@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{293:function(e){e.exports=JSON.parse('{"id":"javascript-interview-questions/storage","title":"Javascript Storage Interview Questions","sidebar_label":"Storage","description":"","source":"@site/docs\\\\javascript-interview-questions\\\\storage.md","permalink":"/docs/javascript-interview-questions/storage"}')}}]);

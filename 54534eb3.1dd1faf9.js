@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{234:function(t){t.exports=JSON.parse('{"id":"html-interview-questions/start","title":"Html Interview Questions","description":"### What is HTML?","source":"@site/docs\\\\html-interview-questions\\\\start.md","permalink":"/docs/html-interview-questions/start","sidebar":"html-interview-questions"}')}}]);
