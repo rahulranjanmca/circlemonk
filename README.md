@@ -1,6 +1,6 @@
-# Website
+# CircleMonk
 
-This website is built using Docusaurus 2, a modern static website generator.
+This website gives you tutorials and interview questions about various programming languages
 
 ### Installation
 

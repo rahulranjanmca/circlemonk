@@ -6,6 +6,10 @@ sidebar_label: Threading
 
 ### Difference between making a thread using Thead class vs Runnable interface?
 
+- When we extend Thread class, we can’t extend any other class even we require and When we implement Runnable, we can save a space for our class to extend any other class in future or now.
+- When we extend Thread class, each of our thread creates unique object and associate with it. When we implements Runnable, it shares the same object to multiple threads.
+
+---
 ### Can a thread be stopped? What is the way?
 
 ### What is CompletableFuture?
