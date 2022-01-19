@@ -16,3 +16,14 @@ Java is the high-level, object-oriented, robust, secure programming language, pl
 
 ---
 
+### What is Internal Iterator in Java?
+
+---
+
+### What is External Iterator in Java?
+
+
+---
+
+### Difference between Internal And External Iterator?
+

@@ -13,6 +13,7 @@ module.exports = {
     Basics: ["core-java-interview-questions/start",
       "core-java-interview-questions/threading",
       "core-java-interview-questions/collections",
+      "core-java-interview-questions/new-date-time",
       "core-java-interview-questions/lambda"],
     Versions: ["core-java-interview-questions/java5features",
       "core-java-interview-questions/java6features",
