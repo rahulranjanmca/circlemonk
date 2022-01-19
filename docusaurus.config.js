@@ -18,7 +18,7 @@ module.exports = {
       title: '',
       logo: {
         alt: 'Circle Monk',
-        src: 'img/logo.png',
+        src: 'img/horizontal.png',
       },
       links: [
         {to: 'docs/contribution', label: 'Contribute', position: 'left'},
@@ -56,10 +56,6 @@ module.exports = {
             {
               label: 'About',
               to: 'docs/about',
-            },
-            {
-              label: 'Earn With Us',
-              to: 'docs/earn-with-us',
             },
             {
               label: 'Contact',
