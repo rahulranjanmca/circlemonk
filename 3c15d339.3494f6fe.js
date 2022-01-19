@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{131:function(t){t.exports=JSON.parse('{"id":"angular-interview-questions/http","title":"Angular Http Interview Questions","sidebar_label":"Http","description":"### What is HttpClient and its benefits?\\r","source":"@site/docs/angular-interview-questions/http.md","permalink":"/docs/angular-interview-questions/http"}')}}]);

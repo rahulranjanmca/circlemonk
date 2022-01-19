@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{240:function(e){e.exports=JSON.parse('{"id":"jpa-interview-questions/start","title":"Jpa Interview Questions","description":"### What is JPA?","source":"@site/docs/jpa-interview-questions/start.md","permalink":"/docs/jpa-interview-questions/start","sidebar":"jpa-interview-questions"}')}}]);

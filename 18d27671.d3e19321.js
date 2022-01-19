@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{207:function(e){e.exports=JSON.parse('{"id":"aws-interview-questions/route53","title":"Aws Interview Questions","description":"### What is AWS?","source":"@site/docs\\\\aws-interview-questions\\\\route53.md","permalink":"/docs/aws-interview-questions/route53"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{123:function(e){e.exports=JSON.parse('{"id":"azure-interview-questions/start","title":"Azure Interview Questions","description":"### What is Azure?","source":"@site/docs/azure-interview-questions/start.md","permalink":"/docs/azure-interview-questions/start","sidebar":"azure-interview-questions"}')}}]);
